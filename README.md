@@ -1,5 +1,6 @@
 # Asrock_Z390_Pro4-Hackintosh
 SPECS:<br/>
+ASROCK Z390 Pro 4<br/>
 i9 9900KF<br/>
 AMD RX6900XT (Founders Edition)<br/>
 WD-BLACK Nvme<br/>
