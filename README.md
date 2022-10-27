@@ -4,7 +4,6 @@ i9 9900KF<br/>
 AMD RX6900XT (Founders Edition)<br/>
 WD-BLACK Nvme<br/>
 <br/>
-<br/>
 INFO:<br/>
 This EFI is made for a 8th or 9th gen CPU -F edition.<br/>
 Make sure to create your own Serial<br/>
